@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="400" src="https://res.cloudinary.com/dpmmsdjxy/image/upload/v1709871655/IMG_20230814_181444_new_zxsv9r.jpg"  />
+  <img height="300" src="https://res.cloudinary.com/dpmmsdjxy/image/upload/v1709871655/IMG_20230814_181444_new_zxsv9r.jpg"  />
 </div>
 
 ###
@@ -35,7 +35,13 @@
 
 ###
 
-<p align="left">I'm M. Alana, Fresh Graduate from Sriwijaya University, Majoring Computer Engineer<br><br>🌱 I’m currently learning MPERN Stack, Deep Learning (Computer Vision), and Mobile Developer (Flutter/Dart)<br>👨‍💻 All of my projects are available at https://github.com/ARRARIAKU2/<br>📝 Ask me anything on My Instagram https://www.instagram.com/m_alana<br>📫 How to reach me alanakocak62@gmail.com</p>
+- 🌱 I’m currently learning **MPERN Stack, Deep Learning (Computer Vision), and Mobile Developer (Flutter/Dart)**
+
+- 👨‍💻 All of my projects are available at [https://github.com/ARRARIAKU2/](https://github.com/ARRARIAKU2/)
+
+- 📝 Ask me anything on My Instagram [https://www.instagram.com/m_alana](https://www.instagram.com/m_alana)
+
+- 📫 How to reach me **alanakocak62@gmail.com**
 
 ###
 
