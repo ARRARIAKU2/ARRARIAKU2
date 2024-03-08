@@ -108,10 +108,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ARRARIAKU2/ARRARIAKU2/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h3 align="left">📫 My Social Media</h3>
 
 ###
